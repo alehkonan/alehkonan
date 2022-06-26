@@ -12,9 +12,6 @@ I started to learn JavaScript in 2018, finished RSSchool courses from EPAM compa
 *   🧠  I'm learning Styled components and SVG graphic
 *   🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/createdCheese" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sweet_cheese?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">
@@ -37,7 +34,7 @@ src="https://img.shields.io/twitter/follow/sweet_cheese?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/sweetCheese" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oleg-konan-707b50217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sweet_cheese" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/sweetCheese" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oleg-konan-707b50217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/createdCheese" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
