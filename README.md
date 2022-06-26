@@ -7,7 +7,7 @@ Web Developer
 I started to learn JavaScript in 2018, finished RSSchool courses from EPAM company, Now I\`m working with React library, I like to develop my skills and to learn something new in this sphere
 
 *   🌍  I'm based in Tbilisi, Georgia
-*   🖥️  See my portfolio at [https://alehkonan-portfolio.netlify.app](http://https://alehkonan-portfolio.netlify.app)
+*   🖥️  See my portfolio at [alehkonan-portfolio.netlify.app](https://alehkonan-portfolio.netlify.app)
 *   ✉️  You can contact me at [olegkonanff@gmail.com](mailto:olegkonanff@gmail.com)
 *   🧠  I'm learning Styled components and SVG graphic
 *   🤝  I'm open to collaborating on interesting projects<a href="https://www.twitter.com/sweet_cheese" target="_blank" rel="noreferrer"><img
