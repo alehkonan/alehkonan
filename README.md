@@ -12,8 +12,8 @@ I started to learn JavaScript in 2018, finished RSSchool courses from EPAM compa
 *   🧠  I'm learning Styled components and SVG graphic
 *   🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/sweet_cheese" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/createdCheese?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/createdCheese" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sweet_cheese?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ### Skills
 
