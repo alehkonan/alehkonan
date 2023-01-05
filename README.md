@@ -9,8 +9,8 @@ I started to learn JavaScript in 2018, finished RSSchool courses from EPAM compa
 *   🌍  I'm based in Tbilisi, Georgia
 *   🖥️  See my portfolio at [alehkonan-portfolio.netlify.app](https://alehkonan-portfolio.netlify.app)
 *   ✉️  You can contact me at [olegkonanff@gmail.com](mailto:olegkonanff@gmail.com)
-*   🧠  I'm learning Styled components and SVG graphic
-*   🤝  I'm open to collaborating on interesting projects
+*   🧠  Now I'm interested in fullstack developing. Having experience with node js and postgresql
+*   🤝  I'm opened to collaborating on interesting projects
 
 ### Skills
 
@@ -34,7 +34,7 @@ I started to learn JavaScript in 2018, finished RSSchool courses from EPAM compa
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/sweetCheese" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oleg-konan-707b50217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/createdCheese" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/sweetCheese" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/alehkonan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oleg-konan-707b50217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gismentovich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -42,4 +42,3 @@ I started to learn JavaScript in 2018, finished RSSchool courses from EPAM compa
 
 <a href="http://www.github.com/alehkonan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alehkonan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/alehkonan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehkonan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
