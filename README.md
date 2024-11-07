@@ -7,7 +7,6 @@ Web Developer
 I started to learn JavaScript in 2018, finished RSSchool courses from EPAM company, Now I\`m working with React library, I like to develop my skills and to learn something new in this sphere
 
 *   🌍  I'm based in Tbilisi, Georgia
-*   🖥️  See my portfolio at [alehkonan-portfolio.netlify.app](https://alehkonan-portfolio.netlify.app)
 *   ✉️  You can contact me at [olegkonanff@gmail.com](mailto:olegkonanff@gmail.com)
 *   🧠  Now I'm interested in fullstack developing. Having experience with node js and postgresql
 *   🤝  I'm opened to collaborating on interesting projects
